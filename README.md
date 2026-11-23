@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:102A43,100:164E63&height=190&section=header&text=StackCairnDev&fontSize=52&fontColor=EAF6FF&fontAlignY=42&desc=Engineering%20Beyond%20Boundaries&descSize=17&descColor=67D5FF&descAlignY=68" width="100%" alt="StackCairnDev banner" />
+<img src="https://images.openai.com/static-rsc-4/gGSl0nyBMuNwUa0jiw-ZH2Yi1f0h0zdbGEYltLHi2P_UptmyjQB2vnUbqnoT6mS-CkFMr2ekFoBgUQcMcVp4s3yShvNJHrzIL8xhn5VqMyiXxVLqPFryPVpJMjzW6Ron1herdk8kc9Sz2MIj2_Df61ru0jH02u-myX4apopBX-_Adeo0z_siXJwrCF_gAlwb?purpose=fullsize" width="100%" alt="StackCairnDev banner" />
 
 <br/>
 
