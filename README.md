@@ -1,104 +1,85 @@
-# Hi 👋
+# StackCairnDev
 
-### Senior Full-Stack & Mobile Engineer | GenAI & AI Product Development
+**Senior Full-Stack & Mobile Engineer | GenAI & AI Product Development**
 
-I build scalable software products, AI-powered applications, and modern web and mobile experiences.
+Building scalable software, AI-powered applications, and modern digital products.
 
-With 7+ years of software engineering experience, I work across the entire product development lifecycle, from architecture and development to deployment and production optimization.
-
-I enjoy turning complex ideas into reliable, user-focused products and helping startups bring their products to life.
+With 7+ years of experience in software engineering, I specialize in full-stack development, mobile applications, backend systems, and AI integrations. I enjoy turning complex ideas into reliable products, from initial architecture to production deployment.
 
 ---
 
-## 🚀 What I Do
+## Professional Focus
 
-- **Full-Stack Development:** Building scalable web applications and SaaS platforms.
-- **AI & GenAI Engineering:** Integrating LLMs, RAG pipelines, vector databases, and AI-powered voice experiences.
-- **Mobile Development:** Developing cross-platform applications for iOS and Android.
-- **Backend Engineering:** Designing APIs, database architectures, and scalable backend systems.
-- **Cloud & DevOps:** Deploying, optimizing, and maintaining production applications.
-- **Product Engineering:** Taking products from initial concepts to production-ready solutions.
-
-## 🛠️ Technology Stack
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-### AI & Generative AI
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-
-- Large Language Model (LLM) integrations
-- Retrieval-Augmented Generation (RAG)
-- Vector databases
-- Prompt engineering
-- AI-powered voice applications
-- Speech-to-Text and Text-to-Speech
-- AI application integrations
-
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-- AWS EC2, S3, Lambda
-- Firebase and Firestore
-- Docker and Linux
-- GitHub Actions and CI/CD
-- Nginx
+- **Full-Stack Engineering:** Scalable web applications, SaaS platforms, and modern frontend architectures.
+- **Generative AI:** LLM integrations, RAG pipelines, vector databases, and AI-powered applications.
+- **Mobile Engineering:** Cross-platform iOS and Android applications using React Native and Flutter.
+- **Backend Architecture:** API development, database design, and scalable server-side systems.
+- **Cloud & Infrastructure:** AWS, Docker, CI/CD, and production deployments.
+- **Product Development:** End-to-end engineering, technical architecture, and product optimization.
 
 ---
 
-## 💼 Professional Highlights
+## Technical Expertise
 
-- 7+ years of experience in full-stack and mobile application development.
-- Built and delivered products serving 100,000+ active users.
+**Languages & Frameworks**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Mobile Development**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+**AI & Generative AI**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+LLM Integrations · RAG · Vector Databases · Prompt Engineering · Voice AI · Speech-to-Text · Text-to-Speech
+
+**Backend, Databases & Cloud**
+
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## Engineering Highlights
+
+- 7+ years of professional software development experience.
+- Delivered web and mobile applications serving 100,000+ active users.
 - Improved application performance by 40%+.
-- Developed AI-powered features using LLMs, RAG, and vector databases.
-- Built real-time AI voice agent experiences using LiveKit and ElevenLabs.
-- Mentored junior engineers and collaborated with cross-functional teams.
-- Experienced in taking products from concept to production.
+- Built production AI features using LLMs, RAG, and vector databases.
+- Developed real-time AI voice experiences with LiveKit and ElevenLabs.
+- Mentored junior engineers and contributed to engineering team productivity.
 
 ---
 
-## 🎯 Currently Interested In
+## Areas of Interest
 
-- Generative AI and intelligent AI applications
-- AI agents and agentic workflows
-- Scalable SaaS architecture
-- Modern web and mobile technologies
-- Developer tools and automation
-- Open-source software and engineering collaboration
+Generative AI · AI Agents · SaaS Architecture · Mobile Engineering · Cloud Infrastructure · Developer Tools · Open Source
 
 ---
 
-## 📫 Let's Connect
-
-I'm always interested in connecting with developers, founders, engineering teams, and people building interesting products.
+## Contact
 
 **Email:** workwithothers3@gmail.com
 
+Open to interesting engineering challenges, product collaborations, and opportunities to build meaningful software.
+
 ---
 
-*Building meaningful products through engineering, creativity, and continuous learning.*
+*Engineering reliable products. Building intelligent solutions. Creating real-world impact.*
