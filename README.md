@@ -1,108 +1,97 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:102A43,100:164E63&text=StackCairnDev&fontSize=55&fontColor=EAF6FF&fontAlignY=40&desc=Engineering%20Beyond%20Boundaries&descSize=18&descColor=67D5FF&descAlignY=62&animation=fadeIn" />
+# StackCairnDev
 
-<br/>
+### I BUILD SOFTWARE PRODUCTS THAT MOVE BUSINESSES FORWARD.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=67D5FF&center=true&vCenter=true&width=650&lines=Senior+Full-Stack+%26+Mobile+Engineer;Generative+AI+%26+Product+Engineering;Building+Scalable+Web+%26+Mobile+Products;Turning+Ideas+Into+Production-Ready+Software" />
+**Full-Stack Engineering · Generative AI · Mobile Applications · SaaS**
 
-<br/>
-
-**Senior Full-Stack & Mobile Engineer**
-
-GenAI · SaaS · Mobile Engineering · Cloud Architecture
+I help startups and businesses turn ideas into scalable, production-ready software — from product architecture and development to deployment and ongoing improvement.
 
 <br/>
 
 <a href="mailto:workwithothers3@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=67D5FF" />
+  <img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-Contact_Me-1677FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/StackCairnDev">
-<img src="https://img.shields.io/badge/GITHUB-STACKCAIRNDEV-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=2699FF&center=true&vCenter=true&width=650&lines=Building+Scalable+SaaS+Products;Engineering+AI-Powered+Applications;Developing+Modern+Web+%26+Mobile+Apps;From+Product+Architecture+to+Production" />
 
 </div>
 
 ---
 
-## ABOUT
+## What I Can Build With You
 
-I'm a Senior Full-Stack & Mobile Engineer with **7+ years of experience** building scalable web applications, mobile products, backend systems, and AI-powered solutions.
+I work with founders, startups, and businesses that need reliable engineering to bring their products to life.
 
-I specialize in turning ideas into production-ready software, working across the entire product lifecycle, from architecture and development to deployment, optimization, and scaling.
-
-My approach combines solid engineering principles, practical problem-solving, and a strong focus on delivering products that solve real-world problems.
-
-**What I bring to a project:**
-
-- End-to-end SaaS and full-stack application development.
-- Generative AI integrations, LLMs, RAG pipelines, and vector databases.
-- Cross-platform mobile development for iOS and Android.
-- Scalable backend architecture and API development.
-- Cloud infrastructure, deployment, and production optimization.
-- Technical collaboration, engineering leadership, and product delivery.
-
----
-
-## ENGINEERING EXPERTISE
-
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### Full-Stack Development
+### 01. AI & Generative AI
 
-Building modern, scalable web applications and SaaS platforms.
+Turn AI capabilities into useful business products.
 
-- React & Next.js
-- TypeScript & JavaScript
-- Node.js & Python
-- REST & GraphQL APIs
-- Frontend architecture
+- AI-powered applications
+- Intelligent AI agents
+- LLM integrations
+- RAG pipelines
+- Vector database integration
+- AI voice applications
+- Workflow automation
 
 </td>
 <td width="50%" valign="top">
 
-### Generative AI Engineering
+### 02. Web & SaaS Development
 
-Integrating intelligent capabilities into real-world products.
+Build scalable digital products and business platforms.
 
-- OpenAI & Anthropic
-- LLM integrations
-- RAG pipelines
-- Vector databases
-- LangChain
-- Voice AI & speech technologies
+- SaaS platforms
+- Custom web applications
+- Admin dashboards
+- Customer portals
+- E-commerce platforms
+- API integrations
+- Full-stack product development
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Mobile Engineering
+### 03. Mobile Application Development
 
-Developing modern mobile applications.
+Build modern mobile experiences for your customers.
 
-- React Native & Expo
-- Flutter
-- Swift & SwiftUI
-- Kotlin
-- iOS & Android development
+- iOS and Android applications
+- React Native applications
+- Flutter applications
+- Mobile API integrations
+- Real-time application features
+- Cross-platform development
 
 </td>
 <td width="50%" valign="top">
 
-### Backend & Cloud
+### 04. Backend & Cloud Engineering
 
-Designing reliable backend systems and infrastructure.
+Build reliable foundations for growing products.
 
-- Node.js & Express
-- Python & FastAPI
-- PostgreSQL & MongoDB
-- AWS
-- Docker & CI/CD
-- Linux & Nginx
+- Backend architecture
+- REST and GraphQL APIs
+- Database design
+- Third-party integrations
+- AWS infrastructure
+- Docker and CI/CD
+- Performance optimization
 
 </td>
 </tr>
@@ -110,101 +99,137 @@ Designing reliable backend systems and infrastructure.
 
 ---
 
-## TECHNOLOGY STACK
+## Why Work With Me?
+
+I focus on more than writing code. I care about building products that work reliably, perform well, and support business growth.
+
+| Experience | Results |
+|:--|:--|
+| Software Engineering | 7+ years |
+| Product Reach | 100K+ users |
+| Performance Optimization | 40%+ improvement |
+| Product Delivery | From architecture to production |
+| Engineering Collaboration | Team leadership and mentoring |
+
+**My approach:**
+
+- Understand your business goals before choosing the technology.
+- Design practical and scalable technical solutions.
+- Build clean, maintainable, production-ready software.
+- Communicate clearly throughout development.
+- Focus on performance, reliability, and long-term growth.
+
+---
+
+## Technology I Work With
 
 <div align="center">
 
-### Languages
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,dart,swift,kotlin" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
 
-### Frontend & Mobile
+**Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,flutter" />
+<img src="https://skillicons.dev/icons?i=react,flutter,dart,swift" />
 
-### Backend & Databases
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,mysql,redis,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django" />
 
-### AI, Cloud & DevOps
+**AI & Data**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" />
+
+**Cloud & DevOps**
 
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,github,githubactions" />
 
 </div>
 
----
-
-## SELECTED PROJECTS
-
-### 01 / PlayByPlay Anime
-
-**AI-Powered Sports Prediction & Voice Commentary**
-
-An AI-powered sports prediction application combining real-time predictions with anime-style voice commentary.
-
-**Key engineering contributions**
-
-- Built real-time AI voice agent experiences.
-- Integrated LiveKit for low-latency audio streaming.
-- Implemented ElevenLabs text-to-speech and speech-to-text.
-- Developed cross-platform mobile applications with React Native and Expo.
-- Built backend services using Node.js and AWS.
-
-`React Native` `Expo` `Node.js` `AWS` `LiveKit` `ElevenLabs`
+**AI ecosystem:** OpenAI · Anthropic · LLMs · RAG · Vector Databases · LangChain · Voice AI
 
 ---
 
-### 02 / Business Brokerage Platform
+## Selected Engineering Experience
 
-**Scalable Web & Mobile Product Engineering**
+### Business Brokerage Platform
 
-Contributed to the development and delivery of web and mobile applications for a business brokerage platform.
+**Full-Stack Product Engineering | Confidential Project**
 
-**Key engineering contributions**
+Contributed to building and scaling a business brokerage platform with complex business workflows and customer-facing features.
 
-- Developed scalable applications serving 100,000+ active users.
-- Integrated LLM-powered features and RAG-based search workflows.
-- Improved application performance by 40%+.
-- Delivered features across frontend, backend, and mobile platforms.
-- Mentored engineers and contributed to engineering quality.
+**Key contributions:**
 
-`React` `Next.js` `TypeScript` `Node.js` `OpenAI` `Vector Databases`
+- Developed application features across frontend and backend systems.
+- Improved page load performance from approximately 5 seconds to under 1 second.
+- Worked on payment and document-signing integrations with Stripe and DocuSign.
+- Contributed to production deployment and CI/CD workflows.
+- Worked on products serving a user base of 100K+.
 
-<sub>Some professional projects are proprietary or covered by confidentiality agreements.</sub>
+**Technologies:** React · Next.js · Node.js · TypeScript · PostgreSQL · Stripe · DocuSign
+
+*Project details are limited due to confidentiality obligations.*
 
 ---
 
-## ENGINEERING IMPACT
+### AI-Powered Voice & Mobile Experiences
+
+**AI Integration | Mobile Engineering**
+
+Experience building mobile application features and integrating conversational AI and real-time voice technologies.
+
+**Relevant technologies:**
+
+- React Native and Expo
+- Node.js backend services
+- LiveKit real-time audio
+- ElevenLabs voice technology
+- LLM integrations
+- AWS infrastructure
+
+---
+
+## How I Work
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-<h1>7+</h1>
+### 01
 
-**YEARS**
+**Discover**
 
-<sub>Software Engineering</sub>
-
-</td>
-<td align="center" width="33%">
-
-<h1>100K+</h1>
-
-**USERS**
-
-<sub>Product Reach</sub>
+Understand your goals, users, and requirements.
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-<h1>40%+</h1>
+### 02
 
-**IMPROVEMENT**
+**Architect**
 
-<sub>Application Performance</sub>
+Plan the product, technology, and architecture.
+
+</td>
+<td align="center" width="25%">
+
+### 03
+
+**Build**
+
+Develop, integrate, test, and refine.
+
+</td>
+<td align="center" width="25%">
+
+### 04
+
+**Deliver**
+
+Deploy, optimize, and support growth.
 
 </td>
 </tr>
@@ -212,69 +237,32 @@ Contributed to the development and delivery of web and mobile applications for a
 
 </div>
 
-Additional experience:
-
-- Mentored 3–5 junior engineers.
-- Delivered products from concept through production.
-- Developed production AI integrations using LLMs and vector databases.
-- Worked in startup environments and collaborative engineering teams.
+I can contribute as an individual engineer or collaborate with a development team depending on project requirements.
 
 ---
 
-## GITHUB ACTIVITY
+## Let's Talk About Your Project
+
+Have an idea for a SaaS platform, AI application, mobile product, or custom software solution?
+
+Whether you're starting from scratch, improving an existing product, or looking for an experienced engineering partner, I'd be happy to discuss how I can help.
 
 <div align="center">
 
-<a href="https://github.com/StackCairnDev">
-<img src="https://github-readme-stats.vercel.app/api?username=StackCairnDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67D5FF&icon_color=67D5FF&text_color=C9D1D9&rank_icon=github" height="170" />
-</a>
-
-<a href="https://github.com/StackCairnDev">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StackCairnDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=67D5FF&text_color=C9D1D9" height="170" />
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=StackCairnDev&hide_border=true&background=0D1117&ring=67D5FF&fire=67D5FF&currStreakLabel=67D5FF&sideLabels=C9D1D9&dates=8B949E" width="80%" />
-
-</div>
-
----
-
-## CURRENT INTERESTS
-
-<div align="center">
-
-`Generative AI` &nbsp; `AI Agents` &nbsp; `RAG Systems`
-
-`SaaS Architecture` &nbsp; `Mobile Engineering`
-
-`Cloud Infrastructure` &nbsp; `Open Source`
-
-</div>
-
----
-
-## LET'S CONNECT
-
-I'm always interested in connecting with developers, founders, engineering teams, and people building meaningful products.
-
-<div align="center">
+### HAVE AN IDEA? LET'S MAKE IT REAL.
 
 <a href="mailto:workwithothers3@gmail.com">
-<img src="https://img.shields.io/badge/Email-workwithothers3%40gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=67D5FF" />
-</a>
-
-<a href="https://github.com/StackCairnDev">
-<img src="https://img.shields.io/badge/GitHub-StackCairnDev-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/START_A_CONVERSATION-Email_Me-1677FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-**Open to interesting engineering challenges and product collaborations.**
+<a href="https://github.com/StackCairnDev">
+  <img src="https://img.shields.io/badge/GitHub-StackCairnDev-161B22?style=flat-square&logo=github" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,50:102A43,100:020617&height=130&section=footer&text=Build.%20Innovate.%20Grow.&fontSize=25&fontColor=EAF6FF&fontAlignY=60" />
+<sub>Building meaningful products through thoughtful engineering.</sub>
 
 </div>
