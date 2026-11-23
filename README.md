@@ -1,12 +1,4 @@
 
-
-<div align="center">
-
-<img src="./assets/profile-banner.png" width="100%" alt="StackCairnDev Profile Banner" />
-
-</div>
-
-
 <div align="center">
 
 # StackCairnDev
