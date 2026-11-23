@@ -1,4 +1,12 @@
 
+
+<div align="center">
+
+<img src="./assets/profile-banner.png" width="100%" alt="StackCairnDev Profile Banner" />
+
+</div>
+
+
 <div align="center">
 
 # StackCairnDev
@@ -7,7 +15,7 @@
 
 **Full-Stack Engineering · Generative AI · Mobile Applications · SaaS**
 
-I help startups and businesses turn ideas into scalable, production-ready software — from product architecture and development to deployment and ongoing improvement.
+I help startups and businesses turn ideas into scalable, production-ready software - from product architecture and development to deployment and ongoing improvement.
 
 <br/>
 
